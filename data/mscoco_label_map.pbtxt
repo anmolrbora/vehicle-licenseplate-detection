@@ -1,0 +1,21 @@
+item {
+  name: "numberplate"
+  id: 1
+  display_name: "numberplate"
+}
+item {
+  name: "/m/04_sv"
+  id: 2
+  display_name: "motorcycle"
+}
+item {
+  name: "/m/0k4j"
+  id: 3
+  display_name: "car"
+}
+
+item {
+  name: "/m/01bjv"
+  id: 4
+  display_name: "bus"
+}
