@@ -8,3 +8,13 @@ This model consists of 3 classes-
 1. numberplate
 2. car
 3. vehicle
+
+## Run
+For detection in videos, run
+```
+video.py
+```
+For detection in static images, run
+```
+vehicle-lp-detection.ipynb
+```
