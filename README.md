@@ -9,8 +9,8 @@ This model consists of 3 classes-
 1. numberplate
 2. car
 3. vehicle
-
-I have already trained the model with the help of [Custom Object Detection API Tutorial](https://pythonprogramming.net/custom-objects-tracking-tensorflow-object-detection-api-tutorial/).
+We created a dataset of 500 mixed images manually by using [LabelImg](https://github.com/tzutalin/labelImg).
+We have already trained the model with the help of [Custom Object Detection API Tutorial](https://pythonprogramming.net/custom-objects-tracking-tensorflow-object-detection-api-tutorial/).
 
 ## Run
 For detection in videos, run
