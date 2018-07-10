@@ -11,6 +11,7 @@ This model consists of 3 classes-
 3. vehicle <br>
 
 We created a dataset of 500 mixed images manually by using [LabelImg](https://github.com/tzutalin/labelImg). <br>
+
 We have already trained the model with the help of [Custom Object Detection API Tutorial](https://pythonprogramming.net/custom-objects-tracking-tensorflow-object-detection-api-tutorial/).
 
 ## Run
