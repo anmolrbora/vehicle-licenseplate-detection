@@ -1,4 +1,4 @@
-# Vehicle and License Plate Detection
+# Vehicle and License Plate Detection using TensorFlow Object Detection API
 ## Packages
 Clone and download [Tensorflow models](https://github.com/tensorflow/models).\
 Follow [Object Detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md) for detailed procedure.\
